@@ -115,18 +115,18 @@ msgstr "העסק מישהו מפורסם."
 
 #. achievement title
 msgid "Full House"
-msgstr "פול האוס"
+msgstr "בית מלא"
 
 #. achievement
 msgid "Have the maximum number of employees."
-msgstr "החזק מספר מקסימלי של עובדים."
+msgstr "מחזיק מספר מקסימלי של עובדים."
 
 msgid "Game Dev Tycoon"
 msgstr "Game Dev Tycoon"
 
 #. achievement
 msgid "Finish Game Dev Tycoon."
-msgstr "סיים את Game Dev Tycoon."
+msgstr "Game Dev Tycoon סיים את."
 
 #. achievement title
 msgid "Perfect Game"
@@ -221,7 +221,7 @@ msgstr "מעריץ"
 
 #. achievement
 msgid "Pick an inspired company name."
-msgstr "לבחור שם לחברה בהשראת חברה."
+msgstr "בחור שם לחברה בהשראת חברה."
 
 #. achievement title
 msgid "Versatile"
@@ -2023,7 +2023,7 @@ msgstr "עזור לנסות משחק."
 
 #. heading
 msgid "Game Backdrops"
-msgstr ""
+msgstr "רקע משחק"
 
 msgid "Design some simple background graphics for a game."
 msgstr "עצב כמה רקעים פשוטים למשחק."
@@ -2048,7 +2048,7 @@ msgstr ""
 
 #. heading
 msgid "Library Software"
-msgstr ""
+msgstr "ספריית תוכנות"
 
 msgid "Develop a simple library management system"
 msgstr ""
